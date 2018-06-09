@@ -232,7 +232,7 @@
 				TargetAttributes = {
 					25B8808B1F5EDBF400D393A0 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 7DFC4UW24J;
+						DevelopmentTeam = 2A7Z7E74EG;
 						ProvisioningStyle = Automatic;
 					};
 					25B880A41F5EDBF400D393A0 = {
@@ -474,7 +474,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7DFC4UW24J;
+				DEVELOPMENT_TEAM = 2A7Z7E74EG;
 				INFOPLIST_FILE = ZJMKitProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = zhangjianmin.ZJMKitProject;
@@ -490,7 +490,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7DFC4UW24J;
+				DEVELOPMENT_TEAM = 2A7Z7E74EG;
 				INFOPLIST_FILE = ZJMKitProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = zhangjianmin.ZJMKitProject;
