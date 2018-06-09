@@ -5,10 +5,10 @@
 	<key>compileBitcode</key>
 	<false/>
 	<key>method</key>
-	<string>enterprise</string>
+	<string>development</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>#Bundle Identifier</key>
+		<key>ZJMKitProject</key>
 		<string>zhangjianmin</string>
 	</dict>
 	<key>signingCertificate</key>
@@ -18,7 +18,7 @@
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>#teamID</string>
+	<string>2A7Z7E74EG</string>
 	<key>thinning</key>
 	<string>&lt;none&gt;</string>
 </dict>
