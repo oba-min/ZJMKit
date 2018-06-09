@@ -9,7 +9,7 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>#Bundle Identifier</key>
-		<string>iOS Team Provisioning Profile:*</string>
+		<string>zhangjianmin</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>iPhone Developer: gui bowen (GYRV5SG5P)</string>
