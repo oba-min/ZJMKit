@@ -488,7 +488,7 @@
 			baseConfigurationReference = EBEB648EFC106393C5566173 /* Pods-ZJMKitProject.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: 109014195@qq.com (66H6FYB3N7)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7DFC4UW24J;
 				INFOPLIST_FILE = ZJMKitProject/Info.plist;
