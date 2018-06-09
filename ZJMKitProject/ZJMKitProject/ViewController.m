@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import <AFNetworking.h>
 @interface ViewController ()
 
 @end
@@ -16,6 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    UIView *hahView = [[UIView alloc]initWithFrame:CGRectMake(100, 100, 100, 100)];
+    [self.view addSubview:hahView];
+    
+    AFHTTPSessionManager *manager = [[AFHTTPSessionManager alloc]initWithSessionConfiguration:[NSURLSessionConfiguration defaultSessionConfiguration]];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
