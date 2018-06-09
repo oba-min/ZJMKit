@@ -477,7 +477,7 @@
 				DEVELOPMENT_TEAM = 2A7Z7E74EG;
 				INFOPLIST_FILE = ZJMKitProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = zhangjianmin.ZJMKitProject;
+				PRODUCT_BUNDLE_IDENTIFIER = ZJMKitProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
@@ -493,7 +493,7 @@
 				DEVELOPMENT_TEAM = 2A7Z7E74EG;
 				INFOPLIST_FILE = ZJMKitProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = zhangjianmin.ZJMKitProject;
+				PRODUCT_BUNDLE_IDENTIFIER = ZJMKitProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
